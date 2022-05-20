@@ -3,7 +3,7 @@
 	"displayName": "UE Intellisense Fixes",
 	"description": "Automatically fixes Unreal Engine Intellisense configuration on startup.",
 	"version": "3.1.0",
-	"publisher": "boocs",
+	"publisher": "rhighs",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
