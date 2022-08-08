@@ -1,7 +1,26 @@
 ### [TODO]
 
-## [3.1.0] 2022-5-18
+# [3.1.4] 2022-6-22
+### Fixed
+- Mac M1 generated.h regex path tester (Not sure if it's M1 only fix or a general Mac fix)
 
+# [3.1.3] 2022-6-20
+### Added
+- c++20 option for future or experimental projects
+
+# [3.1.2] 2022-6-15
+### Added
+- Error messages when creating compile command object
+
+## [3.1.1] 2022-6-14
+### Fixed
+- Non quoted Response file paths regex
+### Changed
+- Wording of Optional fixes
+### Added
+- Error messages for invalid projects
+
+## [3.1.0] 2022-5-18
 ### Changed
 - Simpler way for the extension's 'enableOptionalFixes' optimization setting. Now just uses Tag Parser for UE source.
 ### Fixed
